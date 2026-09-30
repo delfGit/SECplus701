@@ -192,7 +192,7 @@ config t
       password pass
       login
       exec-timeout 0 0
-   Int Gi 0/0/0
+   Int fa 0/0
      description CME
      ip add 10.32.100.8 255.255.255.0
 	 no shutdown
